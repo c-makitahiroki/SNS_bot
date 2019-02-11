@@ -1,3 +1,5 @@
-﻿exclude,keyword,count,note
-1,xxxxx,50,201x/xx/xx実施
-1,xxxxx,1000,201x/xx/xx実施
+﻿exclude,like_click,follow_click,keyword,count,note
+0,Y,N,天草,10,テスト
+0,N,N,あまくさ,10,テスト
+0,Y,Y,test,10,テスト
+0,N,Y,tes,10,テスト

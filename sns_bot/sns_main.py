@@ -35,8 +35,8 @@ def main(args):
 
     driver = webdriver.Chrome(executable_path=args.chrome_driver)  # ここには任意のWebdriverを入れる
     util_sns.login_SNS(SNSInfo, driver)
-    util_sns.likeclick(keyword_list, driver)
-
+    # util_sns.likeclick(keyword_list, driver)
+    util_sns.sns_loop_main(keyword_list, driver)
 
 if __name__ == '__main__':
     main(parse_args())
