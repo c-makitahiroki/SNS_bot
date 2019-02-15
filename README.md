@@ -25,15 +25,19 @@
       - noteはメモ用。
 
 # How to Use
- 1. 動作環境を構築する。
-   ※一例です。上記の環境が構築出来れば何でもよいです。
-    1.1. anacondaをインストールする。 
-   (参考URL)https://weblabo.oscasierra.net/python-anaconda-install-windows/
-  1.2. anaconodaより、下記のライブラリをインストールする。
-   (参考URL)https://www.toyo104-memo.com/entry/anaconda-conda
-   anaconda-Navigator等を使っても良いと思います。
-  1.3. Pycharmをインストールする。(任意)
-   (参考URL)https://gammasoft.jp/python/pycharm-install-on-windows/
-   コードを改良したり、プログラムを実行する時に使います。
-   Pythonコードを実行できる環境があれば特に必要ありません。
- 2. コードを実行する。
+ 1.動作環境を構築する。  
+　※一例です。上記の環境が構築出来れば何でもよいです。  
+　　1.1.anacondaをインストールする。   
+　　　(参考URL)https://weblabo.oscasierra.net/python-anaconda-install-windows/  
+　　1.2.anaconodaより、上記「Library version」記載ののライブラリをインストールする。  
+　　　(参考URL)https://www.toyo104-memo.com/entry/anaconda-conda  
+　　　anaconda-Navigator等を使っても良いと思います。  
+　　1.3. Pycharmをインストールする。(任意)  
+　　　(参考URL)https://gammasoft.jp/python/pycharm-install-on-windows/  
+　　　コードを改良したり、プログラムを実行する時に使います。  
+　　　Pythonコードを実行できる環境があれば特に必要ありません。  
+     
+ 2. Pythonコード(sns_main.py)を実行する。  
+　　2.1. setting.jsonとkeyword.csvに必要な情報を入力する。  
+　　2.2. sns_main.pyに、下記3つの引数を持たせて実行する。  
+　　　第一引数：
