@@ -1,5 +1,6 @@
 # SNS_bot
-　Instagramで指定したハッシュタグの最新投稿から順にいいね！や投稿者のフォローをする。
+　Instagramで指定したハッシュタグの最新投稿から順にいいね！や投稿者のフォローをする。  
+　既にいいね！済みの投稿、フォロー済みのフォロワーはスキップします。
 
 # Enviroment
  - System & Softweare version
