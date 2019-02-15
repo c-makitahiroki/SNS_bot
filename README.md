@@ -26,8 +26,8 @@
 
 # How to Use
  1. 動作環境を構築する。
-　 ※一例です。上記の環境が構築出来れば何でもよいです。
-  1.1. anacondaをインストールする。 
+   ※一例です。上記の環境が構築出来れば何でもよいです。
+    1.1. anacondaをインストールする。 
    (参考URL)https://weblabo.oscasierra.net/python-anaconda-install-windows/
   1.2. anaconodaより、下記のライブラリをインストールする。
    (参考URL)https://www.toyo104-memo.com/entry/anaconda-conda
