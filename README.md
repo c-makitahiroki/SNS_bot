@@ -38,6 +38,10 @@
 　　　Pythonコードを実行できる環境があれば特に必要ありません。  
      
  2. Pythonコード(sns_main.py)を実行する。  
-　　2.1. setting.jsonとkeyword.csvに必要な情報を入力する。  
+　　2.1. setting.jsonとkeyword_list.csvに必要な情報を入力する。  
 　　2.2. sns_main.pyに、下記3つの引数を持たせて実行する。  
-　　　第一引数：
+　　　第一引数：setting.jsonファイルのフルパス  
+　　　第二引数：keyword_list.csvファイルのフルパス  
+　　　第三引数：chromedriver.exeのフルパス  
+　　　　※2019/02/15時点　chromedriverにしか対応していません。  
+　　　　　settingフォルダに同梱していますので、こちらを使って頂くと良いかと思います。
